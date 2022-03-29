@@ -2,6 +2,6 @@ Esta es mi historia
 
 olis tengo 33, naci en caracas.
 
-Y hoy estoy en otra parte del mundo.
+Y hoy estoy en otra parte del mundo y ahora hago ETL.
 
 bye.
